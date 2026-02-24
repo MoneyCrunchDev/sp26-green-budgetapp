@@ -38,6 +38,9 @@
             "backgroundColor": "#000000"
           }
         }
+      ], [
+        "@rnmapbox/maps",
+        {"RNMapsboxMapsVersion": "11.18.2"}
       ]
     ],
     "experiments": {
