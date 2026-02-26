@@ -43,7 +43,7 @@
       [
         "@rnmapbox/maps",
         {
-          "RNMapsboxMapsVersion": "11.18.2"
+          "RNMapboxMapsVersion": "11.18.2"
         }
       ]
     ],
